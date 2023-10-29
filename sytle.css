@@ -1,0 +1,8 @@
+table, th, td{
+    border: 3px solid black;
+    text-align: center;
+    width: 35%;
+    background-color: aqua;
+    
+    
+}
